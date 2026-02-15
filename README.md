@@ -43,8 +43,8 @@ My recent work focuses on:
 
 ### NHS Antibiotics Prescribing — SQL Analysis
 End-to-end ETL pipeline and PostgreSQL analysis of NHS prescribing data, including trend analysis, cost-per-item metrics, and statistical outlier detection.  
-→ [View Repository](LINK HERE)
+→ https://github.com/Betty19h/nhs-antibiotics-prescribing-sql-analysis
 
 ### Cattle Disease Forecasting (MSc Dissertation)
 Time-series modelling of UK cattle disease data, comparing multiple model approaches and evaluating performance across forecast horizons.  
-→ [View Repository](LINK HERE)
+→ https://github.com/Betty19h/uk_cattle_disease_forecasting
